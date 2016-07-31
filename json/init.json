@@ -1,0 +1,136 @@
+{
+  result : [
+    {
+      "name" : "bg_day",
+      "src"  : "images/bg_day.png"
+    },
+    {
+      "name" : "bg_night",
+      "src"  : "images/bg_night.png"
+    },
+    {
+      "name" : "bg_night",
+      "src"  : "images/bg_night.png"
+    },
+    {
+      "name" : "bird0_0",
+      "src"  : "images/bird0_0.png"
+    },
+    {
+      "name" : "bird0_1",
+      "src"  : "images/bird0_1.png"
+    },
+    {
+      "name" : "bird0_2",
+      "src"  : "images/bird0_2.png"
+    },
+    {
+      "name" : "bird1_0",
+      "src"  : "images/bird1_0.png"
+    },
+    {
+      "name" : "bird1_1",
+      "src"  : "images/bird1_1.png"
+    },
+    {
+      "name" : "bird1_2",
+      "src"  : "images/bird1_2.png"
+    },{
+      "name" : "bird2_0",
+      "src"  : "images/bird2_0.png"
+    },
+    {
+      "name" : "bird2_1",
+      "src"  : "images/bird2_1.png"
+    },
+    {
+      "name" : "bird2_2",
+      "src"  : "images/bird2_2.png"
+    },
+
+    {
+      "name" : "land",
+      "src"  : "images/land.png"
+    },
+    {
+      "name" : "pipe_down",
+      "src"  : "images/pipe_down.png"
+    },
+    {
+      "name" : "pipe_up",
+      "src"  : "images/pipe_up.png"
+    },
+    {
+      "name" : "text_game_over",
+      "src"  : "images/text_game_over.png"
+    },
+    {
+      "name" : "text_ready",
+      "src"  : "images/text_ready.png"
+    },
+    {
+      "name" : "button_play",
+      "src"  : "images/button_play.png"
+    },
+    {
+      "name" : "title",
+      "src"  : "images/title.png"
+    },
+    {
+      "name" : "tutorial",
+      "src"  : "images/tutorial.png"
+    },
+    {
+      "name" : "font_048",
+      "src"  : "images/font_048.png"
+    },
+    {
+      "name" : "font_049",
+      "src"  : "images/font_049.png"
+    },
+    {
+      "name" : "font_050",
+      "src"  : "images/font_050.png"
+    },
+    {
+      "name" : "font_051",
+      "src"  : "images/font_051.png"
+    },
+    {
+      "name" : "font_052",
+      "src"  : "images/font_052.png"
+    },
+    {
+      "name" : "font_053",
+      "src"  : "images/font_053.png"
+    },
+    {
+      "name" : "font_054",
+      "src"  : "images/font_054.png"
+    },
+    {
+      "name" : "font_055",
+      "src"  : "images/font_055.png"
+    },
+    {
+      "name" : "font_056",
+      "src"  : "images/font_056.png"
+    },
+    {
+      "name" : "font_057",
+      "src"  : "images/font_057.png"
+    },
+    {
+      "name" : "score_panel",
+      "src"  : "images/score_panel.png"
+    }
+
+
+
+
+
+
+
+
+  ]
+}
